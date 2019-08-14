@@ -1,0 +1,2 @@
+# exerciciosmariangela
+high order function
